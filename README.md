@@ -21,10 +21,11 @@ The training was able to reduce the overall loss after the the iterations, shown
 
 The images from the dataset after 25 epochs which were labeled are shown below :-
 
+
 ![alt_text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/runs/1546951226.595684/um_000000.png)
-![alt_text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/runs/1546951226.595684/um_0000025.png)
-![alt_text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/runs/1546951226.595684/um_0000050.png)
-![alt_text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/runs/1546951226.595684/um_0000075.png)
+![alt_text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/runs/1546951226.595684/um_000025.png)
+![alt_text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/runs/1546951226.595684/um_000050.png)
+![alt_text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/runs/1546951226.595684/um_000076.png)
 
 ### Setup
 ##### GPU
