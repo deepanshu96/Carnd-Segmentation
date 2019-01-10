@@ -5,7 +5,7 @@ In this project, I labeled the pixels of a road in images using a Fully Convolut
 ### Implementation
 I implemented the main.py file in the code. The main functions that were implemented were load_vgg, layers, optimize, train_nn and run. In the load_vgg function the vgg model was loaded making up the encoding part of the convolutional network and in the layers function the decoding part was coded according to the below model:-
 
-[!alt text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/screens/Screen%20Shot%202019-01-10%20at%2010.56.59%20AM.png)
+![alt text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/screens/Screen%20Shot%202019-01-10%20at%2010.56.59%20AM.png)
 
 
 
