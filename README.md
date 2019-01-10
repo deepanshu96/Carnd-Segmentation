@@ -7,8 +7,17 @@ I implemented the main.py file in the code. The main functions that were impleme
 
 ![alt text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/screens/Screen%20Shot%202019-01-10%20at%2010.56.59%20AM.png)
 
+The hyperparameters that were used to train the network were:-
+* keep probabilty = 0.5
+* learning_rate = 0.00001
+* standard deviation = 0.01
+* L2 regularization = 1e-3
+* Epochs = 25
+* Batch size = 5
 
+The training was able to reduce the overall loss after the the iterations, shown below:-
 
+![alt text] (https://github.com/deepanshu96/Carnd-Segmentation/blob/master/screens/Screen%20Shot%202019-01-10%20at%2010.13.11%20AM.png)
 
 
 ### Setup
