@@ -17,7 +17,7 @@ The hyperparameters that were used to train the network were:-
 
 The training was able to reduce the overall loss after the the iterations, shown below:-
 
-![alt text] (https://github.com/deepanshu96/Carnd-Segmentation/blob/master/screens/Screen%20Shot%202019-01-10%20at%2010.13.11%20AM.png)
+![alt_text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/screens/Screen%20Shot%202019-01-10%20at%2010.13.11%20AM.png)
 
 
 ### Setup
