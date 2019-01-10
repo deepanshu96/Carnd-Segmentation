@@ -27,6 +27,10 @@ The images from the dataset after 25 epochs which were labeled are shown below :
 ![alt_text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/runs/1546951226.595684/um_000050.png)
 ![alt_text](https://github.com/deepanshu96/Carnd-Segmentation/blob/master/runs/1546951226.595684/um_000076.png)
 
+I used udacity workspace for training the above model so the location of the data used by default in the workspace - /data.
+The sample images of workspace is shown below :-
+
+* 
 ### Setup
 ##### GPU
 `main.py` will check to make sure you are using GPU - if you don't have a GPU on your system, you can use AWS or another cloud computing platform.
